@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+nav {
+    height: auto;
+    width: auto;
+    text-align: center;
+    background-color: rgb(233, 230, 230);
+    padding-bottom: 0%;
+}
+
+
+table {
+    text-align: center;
+   
+}
+.f1{
+    background-color: rgb(8, 237, 237);
+    text-align: center;
+    padding: 1px 203px;
+}
+.f2{
+    text-align: center;
+    padding: 1px 113px;
+    background-color: rgb(1, 210, 210);
+}
+.f3{
+    text-align: center;
+    padding: 1px 253.5px;
+    background-color: rgb(1, 186, 186);
+}
+.f4{
+    font-size: 15px;
+    padding-top: 1%;
+}
